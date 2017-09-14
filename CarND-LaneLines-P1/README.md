@@ -1,4 +1,4 @@
-# **Finding Lane Lines on the Road** 
+# **Finding Lane Lines on the Road (andichik)** 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 <img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
@@ -6,7 +6,7 @@
 Overview
 ---
 
-This is the first project of Udacity Self-Driving Car Nanodegree Term 1. Original repo can be found [here](https://github.com/udacity/CarND-LaneLines-P1). All work was done on jupyter notebook initially provided in the instructor repo, [P1.ipynb](https://github.com/andichik/SDC-Term-1/blob/master/CarND-LaneLines-P1/P1.ipynb). In depth writeup is provided [here](https://github.com/andichik/SDC-Term-1/blob/master/CarND-LaneLines-P1/writeup_template.md).
+This is the first project of Udacity Self-Driving Car Nanodegree Term 1. Original repo can be found [here](https://github.com/udacity/CarND-LaneLines-P1). All work was done on jupyter notebook initially provided in the instructor repo, [P1.ipynb](https://github.com/andichik/SDC-Term-1/blob/master/CarND-LaneLines-P1/P1.ipynb). In depth writeup is provided [here](https://github.com/andichik/SDC-Term-1/blob/master/CarND-LaneLines-P1/writeup.md).
 
 Cheers
 
