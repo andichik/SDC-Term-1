@@ -6,16 +6,21 @@
 Overview
 ---
 
-When we drive, we use our eyes to decide where to go.  The lines on the road that show us where the lanes are act as our constant reference for where to steer the vehicle.  Naturally, one of the first things we would like to do in developing a self-driving car is to automatically detect lane lines using an algorithm.
+This is the first project of Udacity Self-Driving Car Nanodegree Term 1. Original repo can be found [here](https://github.com/udacity/CarND-LaneLines-P1). All work was done on jupyter notebook initially provided in the instructor repo, [P1.ipynb](https://github.com/andichik/SDC-Term-1/blob/master/CarND-LaneLines-P1/P1.ipynb). In depth writeup is provided [here](https://github.com/andichik/SDC-Term-1/blob/master/CarND-LaneLines-P1/writeup_template.md).
+
+Cheers
+
+
+<!-- When we drive, we use our eyes to decide where to go.  The lines on the road that show us where the lanes are act as our constant reference for where to steer the vehicle.  Naturally, one of the first things we would like to do in developing a self-driving car is to automatically detect lane lines using an algorithm.
 
 In this project you will detect lane lines in images using Python and OpenCV.  OpenCV means "Open-Source Computer Vision", which is a package that has many useful tools for analyzing images.  
 
 To complete the project, two files will be submitted: a file containing project code and a file containing a brief write up explaining your solution. We have included template files to be used both for the [code](https://github.com/udacity/CarND-LaneLines-P1/blob/master/P1.ipynb) and the [writeup](https://github.com/udacity/CarND-LaneLines-P1/blob/master/writeup_template.md).The code file is called P1.ipynb and the writeup template is writeup_template.md 
 
-To meet specifications in the project, take a look at the requirements in the [project rubric](https://review.udacity.com/#!/rubrics/322/view)
+To meet specifications in the project, take a look at the requirements in the [project rubric](https://review.udacity.com/#!/rubrics/322/view) -->
 
 
-Creating a Great Writeup
+<!-- Creating a Great Writeup
 ---
 For this project, a great writeup should provide a detailed response to the "Reflection" section of the [project rubric](https://review.udacity.com/#!/rubrics/322/view). There are three parts to the reflection:
 
@@ -52,5 +57,5 @@ A browser window will appear showing the contents of the current directory.  Cli
 **Step 3:** Complete the project and submit both the Ipython notebook and the project writeup
 
 ## How to write a README
-A well written README file can enhance your project and portfolio.  Develop your abilities to create professional README files by completing [this free course](https://www.udacity.com/course/writing-readmes--ud777).
+A well written README file can enhance your project and portfolio.  Develop your abilities to create professional README files by completing [this free course](https://www.udacity.com/course/writing-readmes--ud777). -->
 
