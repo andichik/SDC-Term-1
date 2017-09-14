@@ -38,9 +38,9 @@ The next step was to extend these weighted average lane lines to the edges of th
 
 ### 2. Identify potential shortcomings with your current pipeline
 
-One shortcoming would be what would happen when the lane lines start to curve. Since the purpose altered draw_line() is to draw a single straight line for each side of lane lines, the lines would move around rapidly when the Hough transform identifies more curved lines along the path.
+One shortcoming would be what would happen when the lane lines start to curve. Since the purpose of the altered draw_line() is to draw a single straight line for each side of lane lines, the lines would move around rapidly when the Hough transform identifies more curved lines along the path.
 
-Another shortcoming would be the presence of guard rails or walls along the road that could be mistaken as lane lines. Canny and Hough transforms would almost definitely identify the edges of the walls as lines, and the region of interest mask could be unable to shave off irrelevant areas.
+Another shortcoming would be the presence of guard rails or walls along the road that could be mistaken as lane lines. Canny and Hough transforms would almost definitely identify the edges of the walls as lines, and the region of interest mask may not be able to shave off irrelevant areas.
 
 ### 3. Suggest possible improvements to your pipeline
 
