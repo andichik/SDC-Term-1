@@ -9,4 +9,4 @@ ehthumbs.db
 Thumbs.db
 
 # Potentially Large files#
-.p
+*.p
