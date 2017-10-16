@@ -160,42 +160,49 @@ This is a plot of the model's calculated classification probability for each web
 My model unfortunately predicted incorrectly on the first image, despite the correct label coming second in the probability. The fifth was surprsingly close. Otherwise, my model did generally well in classifying the signs. 
 
 Top 5 Probabilities:
+
 Prediction: 13, Actual: 14
     Label: 13, Value: 0.9425109028816223
     Label: 14, Value: 0.041424110531806946
     Label: 36, Value: 0.006646007299423218
     Label: 3, Value: 0.0029350263066589832
     Label: 1, Value: 0.002155170775949955
+
 Prediction: 17, Actual: 17
     Label: 17, Value: 1.0
     Label: 14, Value: 1.9013152163793734e-11
     Label: 33, Value: 5.0927971150145634e-14
     Label: 13, Value: 4.941722690234539e-14
     Label: 9, Value: 5.564906937089451e-15
+
 Prediction: 12, Actual: 12
     Label: 12, Value: 0.9998764991760254
     Label: 40, Value: 0.0001222667342517525
     Label: 3, Value: 6.838113222329412e-07
     Label: 38, Value: 2.540018897434493e-07
     Label: 32, Value: 2.2956331235945981e-07
+
 Prediction: 11, Actual: 11
     Label: 11, Value: 1.0
     Label: 30, Value: 1.0661196370165271e-08
     Label: 27, Value: 1.1325663740180403e-09
     Label: 24, Value: 2.7971508442803383e-10
     Label: 18, Value: 2.3293100781529574e-10
+
 Prediction: 18, Actual: 18
     Label: 18, Value: 0.5350461006164551
     Label: 38, Value: 0.3525824248790741
     Label: 1, Value: 0.06493526697158813
     Label: 2, Value: 0.024188155308365822
     Label: 39, Value: 0.009927839040756226
+
 Prediction: 4, Actual: 4
     Label: 4, Value: 0.9860913157463074
     Label: 0, Value: 0.013442288152873516
     Label: 1, Value: 0.0004639170365408063
     Label: 8, Value: 2.5010699573613238e-06
     Label: 40, Value: 3.5614963422858636e-08
+
 Prediction: 40, Actual: 40
     Label: 40, Value: 0.9913620352745056
     Label: 12, Value: 0.005916586145758629
